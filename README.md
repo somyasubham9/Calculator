@@ -1,5 +1,5 @@
-# LaZiZ Restaurant
-Landing Page using HTML and CSS
+# CALCULATOR
+Calculator using HTML,CSS & JavaScript
 
 ## 🔗 Links
 URL: 
